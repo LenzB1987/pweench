@@ -1,6 +1,6 @@
 # pweench
 
-A twitter clone
+A twitter clone built wit flutter
 
 ## Getting Started
 
