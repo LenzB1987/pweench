@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412990874478",
+    "project_id": "pweench-ca5a3",
+    "storage_bucket": "pweench-ca5a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412990874478:android:2322219abeb697637d577f",
+        "android_client_info": {
+          "package_name": "com.example.pweench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412990874478-uqp0kmetscoprsas8u7tt6rbofeneok1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIvhL_x16OXWmXkY6l8PD5mIosuIw_N4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412990874478-3hj9q459scm9s3duemij3gom8v65op2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
